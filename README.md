@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gayathri V
+- 👋 Hi, I’m Gayathri Vijayan
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently pursuing my Masters in Data Analytics from IIITM-K
 - 💞️ I’m looking to collaborate on Machine learning projects
